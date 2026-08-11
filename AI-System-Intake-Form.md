@@ -1,88 +1,110 @@
-# AI System Intake Form
-
-Every AI system should begin with an intake form before it is purchased, piloted, deployed, or used for official work.
+# AI System Intake Form — Museum Collections Metadata Assistant
 
 ## 1. AI System Name
-Enterprise Knowledge Assistant (EKA)
+Museum Collections Metadata Assistant
 
 ## 2. Department
-Information Technology (IT)
+Collections Management and Digital Archives
 
 ## 3. Business Owner
-Director of Digital Transformation
+Chief Registrar / Head of Collections Management
 
 ## 4. System Owner
-AI Platform Manager
+Digital Collections Systems Manager
 
 ## 5. Vendor / Provider
-Microsoft Azure OpenAI Service (Vendor SaaS Platform)
+Microsoft Azure OpenAI Service (Vendor SaaS) integrated with Collections Management System
 
 ## 6. AI Capability Type
-Generative AI, Search, Summarization, Question Answering
+Generative AI, Classification, Summarization, Search, Recommendation
 
 ## 7. Business Purpose
-Provide employees with fast access to organizational knowledge, automate document summarization, assist with drafting content, and improve productivity when searching internal information.
+The system assists museum staff in creating, enriching, classifying, and summarizing metadata for museum objects, archival records, photographs, and cultural heritage assets. It improves discoverability of collections and supports records management activities while reducing manual cataloging effort.
 
 ## 8. Users
 
-- Administrative staff
-- Managers
-- Customer service personnel
-- Knowledge workers
-- Business analysts
+- Registrars
+- Collections Managers
+- Archivists
+- Curators
+- Records Managers
+- Digital Asset Management Staff
+- Metadata Specialists
 
 ## 9. Data Used
 
-- Internal policies and procedures
-- Knowledge base articles
-- Public reference materials
-- Employee-provided prompts
-- Approved internal documents stored in SharePoint or document repositories
+- Museum collection records
+- Artifact metadata
+- Archival descriptions
+- Digital images of collection items
+- Exhibition records
+- Provenance information
+- Records retention schedules
+- Internal collection management documentation
 
 ## 10. Data Classification
 Internal / Confidential
 
+Some culturally sensitive collection information may be classified as Restricted.
+
 ## 11. Public-Facing Output?
-No
+Yes
+
+Metadata descriptions and collection summaries may be published through the museum's online collection portal.
 
 ## 12. Official Record Impact?
 Yes
 
-**Rationale:** AI-generated summaries or recommendations may influence business decisions or records management activities.
+Generated metadata may become part of official collection documentation and institutional records.
 
 ## 13. Human Review Required?
 Yes
 
-All AI-generated outputs must be reviewed and approved by a qualified employee before use in official business processes.
+All AI-generated metadata, descriptions, classifications, and recommendations must be reviewed and approved by qualified museum professionals before publication or incorporation into official records.
 
 ## 14. Current Approval Status
 Pending Review
 
 ## 15. Known Risks
 
-- Hallucinated or inaccurate responses
-- Disclosure of confidential information
-- Bias in generated content
-- Outdated source information
-- Overreliance by users on AI recommendations
-- Lack of transparency regarding source attribution
-- Unauthorized access to sensitive data
+- Incorrect object identification
+- Inaccurate metadata generation
+- Hallucinated provenance information
+- Cultural bias or misrepresentation of heritage materials
+- Disclosure of sensitive collection information
+- Inconsistent cataloging standards
+- Copyright and intellectual property concerns
+- Errors in records retention categorization
+- Overreliance on AI-generated descriptions
 
 ## 16. Required Controls
 
-- Human-in-the-loop review
-- Role-based access controls (RBAC)
-- Data classification and labeling
-- Content filtering and monitoring
-- User training and acceptable use policy
-- Audit logging and activity monitoring
-- Periodic risk assessments
-- Data retention and deletion controls
-- Vendor security assessment
-- Incident reporting process
+- Human review and approval workflow
+- Metadata quality assurance procedures
+- Role-based access controls
+- Audit logging of AI-generated changes
+- Records management compliance reviews
+- Data classification and handling requirements
+- Cultural sensitivity review for heritage materials
+- Model performance monitoring
+- Version control for metadata updates
+- Regular AI governance and risk assessments
+- Approval before public publication
 
 ## 17. Review Date
 11 August 2027
 
 ## 18. Governance Decision
 Approved / Approved with Controls / Remediation Required / Prohibited / Retired
+
+## Why This Fits a Museum & Cultural Heritage Environment
+
+This intake demonstrates governance concerns unique to museums:
+
+- Collection metadata accuracy
+- Cultural heritage sensitivity and stewardship
+- Provenance documentation risks
+- Archival and records-management compliance
+- Public trust and collection transparency
+- Human expert review by registrars, archivists, and curators
+- Protection of restricted cultural information
