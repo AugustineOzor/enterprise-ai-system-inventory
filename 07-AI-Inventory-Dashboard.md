@@ -35,15 +35,7 @@
 | High-risk systems reviewed | 100% |
 
 ## Risk Indicators
-
-| Indicator | Green | Amber | Red |
-|---|---|---|---|
-| Owner assigned | 100% | 90–99% | Below 90% |
-| Risk tier assigned | 100% | 90–99% | Below 90% |
-| Unapproved systems | 0 | 1–2 | 3+ |
-| Shadow AI tools | 0 | 1–3 | 4+ |
-| Public-facing unreviewed systems | 0 | 1 | 2+ |
-| Restricted-data AI use | 0 | 1 | 2+ |
+<img width="1536" height="1024" alt="Designer (11)" src="https://github.com/user-attachments/assets/3df2dfed-851d-47a6-ad43-4327f8591060" />
 
 ## Review Cadence
 
