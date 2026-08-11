@@ -9,25 +9,7 @@ This project presents a real-world AI governance implementation program for crea
 
 The project addresses the challenge of identifying approved AI tools, vendor AI systems, public-facing AI, records-impacting AI, and shadow AI used across departments.
 
-## Key Deliverables
-- [Project Charter](01-Project-Charter.md)
-- [AI System Intake Form](02-AI-System-Intake-Form.md)
-- [AI System Register Template](03-AI-System-Register-Template.md)
-- [Sample AI System Register](04-Sample-AI-System-Register.md)
-- [AI Risk Tier Model](05-AI-Risk-Tier-Model.md)
-- [Shadow AI Discovery Plan](06-Shadow-AI-Discovery-Plan.md)
-- [AI Inventory Dashboard](07-AI-Inventory-Dashboard.md)
-- [AI System Inventory Policy](08-AI-System-Inventory-Policy.md)
-- [RACI Matrix](09-RACI-Matrix.md)
-- [AI Inventory Risk Register](10-AI-Inventory-Risk-Register.md)
-- [Audit Checklist](11-Audit-Checklist.md)
-- [Final Recommendation](12-Final-Recommendation.md)
-- [Findings Report](13-Findings-Report.md)
-
-This project demonstrates practical AI governance operations, AI risk classification, accountability, system ownership, audit readiness, and organizational AI oversight.
-
 ## 📁 Project Documentation
-
 | # | Document | Description |
 |---|---|---|
 | 01 | [Project Charter](./01-Project-Charter.md) | Project objectives, scope, stakeholders, and governance approach |
@@ -43,6 +25,10 @@ This project demonstrates practical AI governance operations, AI risk classifica
 | 11 | [Audit Checklist](./11-Audit-Checklist.md) | Checklist for assessing AI inventory governance and control effectiveness |
 | 12 | [Final Recommendation](./12-Final-Recommendation.md) | Overall governance recommendation based on the assessment |
 | 13 | [Findings Report](./13-Findings-Report.md) | Detailed findings, observations, risks, and recommended actions |
+
+This project demonstrates practical AI governance operations, AI risk classification, accountability, system ownership, audit readiness, and organizational AI oversight.
+
+
 ## Governance Flow
 
 ```
