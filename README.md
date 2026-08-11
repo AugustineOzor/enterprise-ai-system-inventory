@@ -1,5 +1,6 @@
 # Enterprise AI System Inventory Program
-![Uploading Designer (12).png…]()
+![Uploading Designer (13).png…]()
+
 
 This project presents a real-world AI governance implementation program for creating and maintaining an enterprise AI system inventory in a museum and records-management environment.
 
