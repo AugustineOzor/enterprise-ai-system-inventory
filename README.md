@@ -2,6 +2,7 @@
 
 <img width="1536" height="1024" alt="Designer (13)" src="https://github.com/user-attachments/assets/be962de6-8df0-48e2-b3e1-418f07d66372" />
 
+
 This project presents a real-world AI governance implementation program for creating and maintaining an enterprise AI system inventory in a museum and records-management environment.
 
 The project addresses the challenge of identifying approved AI tools, vendor AI systems, public-facing AI, records-impacting AI, and shadow AI used across departments.
