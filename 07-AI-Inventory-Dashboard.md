@@ -50,10 +50,7 @@ The AI inventory must be a living register.
 | Shadow AI tools | Immediate review |
 
 # AI Inventory Operating Procedure
-2
- 
-3
-1. **New AI tool is proposed.**
+ 1. **New AI tool is proposed.**
 4
 2. **Staff completes the AI System Intake Form.**
 5
@@ -72,12 +69,6 @@ The AI inventory must be a living register.
 9. **Dashboard is updated.**
 12
 10. **System is reviewed according to the established review cadence.**
-13
- 
-14
-## Process Flow
-15
- 
-16
-```text
+
+
 
