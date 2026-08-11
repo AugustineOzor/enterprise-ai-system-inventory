@@ -80,43 +80,4 @@ The AI inventory must be a living register.
  
 16
 ```text
-17
-AI Tool Proposed
-18
-↓
-19
-AI System Intake Form Completed
-20
-↓
-21
-Data Classification Assigned
-22
-↓
-23
-Risk Tier Assigned
-24
-↓
-25
-Business Owner Confirmed
-26
-↓
-27
-Required Controls Documented
-28
-↓
-29
-Governance Decision Recorded
-30
-↓
-31
-Added to AI Register
-32
-↓
-33
-Dashboard Updated
-34
-↓
-35
-Periodic Review Conducted
-36
-```
+
