@@ -1,6 +1,6 @@
 # Sample AI System Register
 
-Example entries populated using the [AI System Register Template](AI-System-Register-Template.md).
+Example entries populated using the [AI System Register Template](03-AI-System-Register-Template.md).
 
 | ID | AI System | Department | Purpose | Data Used | Risk Tier | Status |
 |---|---|---|---|---|---|---|
