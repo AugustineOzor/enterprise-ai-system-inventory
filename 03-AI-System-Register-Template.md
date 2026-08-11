@@ -26,12 +26,12 @@ The register is the core artifact of the AI inventory program.
 How an AI system moves from proposal to a maintained register entry:
 
 1. New AI tool is proposed.
-2. Staff completes the [AI System Intake Form](AI-System-Intake-Form.md).
+2. Staff completes the [AI System Intake Form](02-AI-System-Intake-Form.md).
 3. Data classification is assigned.
-4. Risk tier is assigned (see [AI Risk Tier Model](AI-Risk-Tier-Model.md)).
+4. Risk tier is assigned (see [AI Risk Tier Model](05-AI-Risk-Tier-Model.md)).
 5. Business owner is confirmed.
 6. Required controls are documented.
 7. Governance decision is recorded.
 8. System is added to the AI register.
 9. Dashboard is updated.
-10. System is reviewed according to the [review cadence](AI-Inventory-Dashboard.md#review-cadence).
+10. System is reviewed according to the [review cadence](07-AI-Inventory-Dashboard.md#review-cadence).
