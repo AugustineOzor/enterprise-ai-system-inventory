@@ -49,26 +49,6 @@ The AI inventory must be a living register.
 | Restricted or exception-approved AI | Monthly or as defined by governance committee |
 | Shadow AI tools | Immediate review |
 
-# AI Inventory Operating Procedure
- 1. **New AI tool is proposed.**
-4
-2. **Staff completes the AI System Intake Form.**
-5
-3. **Data classification is assigned.**
-6
-4. **Risk tier is assigned.**
-7
-5. **Business owner is confirmed.**
-8
-6. **Required controls are documented.**
-9
-7. **Governance decision is recorded.**
-10
-8. **System is added to the AI Register.**
-11
-9. **Dashboard is updated.**
-12
-10. **System is reviewed according to the established review cadence.**
 
 
 
