@@ -48,3 +48,75 @@ The AI inventory must be a living register.
 | High-risk public-facing AI | Quarterly |
 | Restricted or exception-approved AI | Monthly or as defined by governance committee |
 | Shadow AI tools | Immediate review |
+
+# AI Inventory Operating Procedure
+2
+ 
+3
+1. **New AI tool is proposed.**
+4
+2. **Staff completes the AI System Intake Form.**
+5
+3. **Data classification is assigned.**
+6
+4. **Risk tier is assigned.**
+7
+5. **Business owner is confirmed.**
+8
+6. **Required controls are documented.**
+9
+7. **Governance decision is recorded.**
+10
+8. **System is added to the AI Register.**
+11
+9. **Dashboard is updated.**
+12
+10. **System is reviewed according to the established review cadence.**
+13
+ 
+14
+## Process Flow
+15
+ 
+16
+```text
+17
+AI Tool Proposed
+18
+↓
+19
+AI System Intake Form Completed
+20
+↓
+21
+Data Classification Assigned
+22
+↓
+23
+Risk Tier Assigned
+24
+↓
+25
+Business Owner Confirmed
+26
+↓
+27
+Required Controls Documented
+28
+↓
+29
+Governance Decision Recorded
+30
+↓
+31
+Added to AI Register
+32
+↓
+33
+Dashboard Updated
+34
+↓
+35
+Periodic Review Conducted
+36
+```
